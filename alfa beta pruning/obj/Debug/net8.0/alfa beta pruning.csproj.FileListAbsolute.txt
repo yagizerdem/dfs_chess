@@ -1,0 +1,14 @@
+C:\Users\yagiz\Desktop\alfa beta pruning\alfa beta pruning\bin\Debug\net8.0\alfa beta pruning.exe
+C:\Users\yagiz\Desktop\alfa beta pruning\alfa beta pruning\obj\Debug\net8.0\alfa beta pruning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yagiz\Desktop\alfa beta pruning\alfa beta pruning\obj\Debug\net8.0\alfa beta pruning.AssemblyInfoInputs.cache
+C:\Users\yagiz\Desktop\alfa beta pruning\alfa beta pruning\obj\Debug\net8.0\alfa beta pruning.AssemblyInfo.cs
+C:\Users\yagiz\Desktop\alfa beta pruning\alfa beta pruning\obj\Debug\net8.0\alfa beta pruning.csproj.CoreCompileInputs.cache
+C:\Users\yagiz\Desktop\alfa beta pruning\alfa beta pruning\obj\Debug\net8.0\alfa beta pruning.dll
+C:\Users\yagiz\Desktop\alfa beta pruning\alfa beta pruning\obj\Debug\net8.0\refint\alfa beta pruning.dll
+C:\Users\yagiz\Desktop\alfa beta pruning\alfa beta pruning\obj\Debug\net8.0\alfa beta pruning.pdb
+C:\Users\yagiz\Desktop\alfa beta pruning\alfa beta pruning\bin\Debug\net8.0\alfa beta pruning.deps.json
+C:\Users\yagiz\Desktop\alfa beta pruning\alfa beta pruning\bin\Debug\net8.0\alfa beta pruning.runtimeconfig.json
+C:\Users\yagiz\Desktop\alfa beta pruning\alfa beta pruning\bin\Debug\net8.0\alfa beta pruning.dll
+C:\Users\yagiz\Desktop\alfa beta pruning\alfa beta pruning\bin\Debug\net8.0\alfa beta pruning.pdb
+C:\Users\yagiz\Desktop\alfa beta pruning\alfa beta pruning\obj\Debug\net8.0\alfa beta pruning.genruntimeconfig.cache
+C:\Users\yagiz\Desktop\alfa beta pruning\alfa beta pruning\obj\Debug\net8.0\ref\alfa beta pruning.dll
